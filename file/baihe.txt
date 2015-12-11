@@ -1,2 +1,1 @@
-5.7
-http://w.ttjcw.cc/jy/file/%E4%BD%B3%E7%BC%98%E4%BA%A4%E5%8F%8B%E5%8A%A9%E6%89%8B%20v7.4.zip
+5.7=http://w.ttjcw.cc/jy/file/%E4%BD%B3%E7%BC%98%E4%BA%A4%E5%8F%8B%E5%8A%A9%E6%89%8B%20v7.4.zip
