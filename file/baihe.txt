@@ -1,1 +1,1 @@
-6.0=http://files.cnblogs.com/files/bqh10086/6.0.zip
+6.1=http://files.cnblogs.com/files/bqh10086/6.1.zip
