@@ -1,2 +1,1 @@
 6.3=http://files.cnblogs.com/files/bqh10086/baihe_6.3_pack.zip
-6.2=http://files.cnblogs.com/files/bqh10086/6.2.zip
